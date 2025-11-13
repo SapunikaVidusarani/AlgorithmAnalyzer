@@ -1,6 +1,7 @@
 package algorithmanalysis;
 
 import java.util.Random;
+
 public class LinearSearchAnalysis {
 
     public static int linearSearch(int[] arr, int key) {
